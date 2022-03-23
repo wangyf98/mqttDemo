@@ -1,0 +1,35 @@
+.gradle
+/bin/
+*/bin/
+*/build/
+!gradle/wrapper/gradle-wrapper.jar
+.vscode
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/logs/
+/config/
+/build/
+*/logs/
+/nbdist/
+/.nb-gradle/
+*rebel.xml
+*.DS_Store

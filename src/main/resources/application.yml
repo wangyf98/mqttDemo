@@ -1,0 +1,5 @@
+mqtt:
+  username: test
+  password: test123
+  url: tcp://59.110.140.97:1883
+  clientId: ${random.value}
